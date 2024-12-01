@@ -1,4 +1,3 @@
-import Data.List (sort)
 import System.IO
 
 parsePair :: String -> (Int, Int)
